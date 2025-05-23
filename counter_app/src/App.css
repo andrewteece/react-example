@@ -3,10 +3,11 @@
 /* Centering the app content */
 .app-container {
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   align-items: center;
   height: 100vh;
+  width: 100%;
   background-color: #f0f4f8;
   font-family: Arial, sans-serif;
 }
