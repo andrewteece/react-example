@@ -10,8 +10,7 @@ function App() {
     // The main container for the app content
     <div className='app-container'>
       {/* Display the current value of the 'num' variable */}
-      <h1 className='counter-heading'>Current Number: {num}</h1>
-
+      <h1 className='counter-heading'>Current Number: {num}</h1> mess
       {/* Container for buttons, to allow adding or subtracting 1 */}
       <div className='button-container'>
         {/* Button to increment the 'num' value by 1 */}
