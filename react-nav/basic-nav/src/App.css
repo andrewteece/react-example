@@ -1,4 +1,18 @@
-#root {
+* {
+  font-family: sans-serif;
+}
+nav {
+  background: #ee9972;
+  padding: 20px;
+}
+nav a {
+  color: #edefee;
+  text-decoration: none;
+  font-size: 20px;
+  margin-right: 20px;
+}
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +53,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
